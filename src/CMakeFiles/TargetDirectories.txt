@@ -1,0 +1,3 @@
+/Users/kasper/Projects/mongodb/reproductions/weird/src/CMakeFiles/weird.dir
+/Users/kasper/Projects/mongodb/reproductions/weird/src/CMakeFiles/edit_cache.dir
+/Users/kasper/Projects/mongodb/reproductions/weird/src/CMakeFiles/rebuild_cache.dir

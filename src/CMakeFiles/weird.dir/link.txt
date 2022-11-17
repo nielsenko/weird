@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.0.sdk -mmacosx-version-min=12.6 -dynamiclib -Wl,-headerpad_max_install_names -o libweird.dylib -install_name @rpath/libweird.dylib CMakeFiles/weird.dir/weird.c.o 
