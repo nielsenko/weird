@@ -7,7 +7,7 @@ version:
   revision: f5c14807fdf47ae6c1c39bc123f99e2dac3d80cd
   channel: master
 
-project_type: plugin_ffi
+project_type: app
 
 # Tracks metadata for the flutter migrate command
 migration:
@@ -15,19 +15,7 @@ migration:
     - platform: root
       create_revision: f5c14807fdf47ae6c1c39bc123f99e2dac3d80cd
       base_revision: f5c14807fdf47ae6c1c39bc123f99e2dac3d80cd
-    - platform: android
-      create_revision: f5c14807fdf47ae6c1c39bc123f99e2dac3d80cd
-      base_revision: f5c14807fdf47ae6c1c39bc123f99e2dac3d80cd
-    - platform: ios
-      create_revision: f5c14807fdf47ae6c1c39bc123f99e2dac3d80cd
-      base_revision: f5c14807fdf47ae6c1c39bc123f99e2dac3d80cd
-    - platform: linux
-      create_revision: f5c14807fdf47ae6c1c39bc123f99e2dac3d80cd
-      base_revision: f5c14807fdf47ae6c1c39bc123f99e2dac3d80cd
     - platform: macos
-      create_revision: f5c14807fdf47ae6c1c39bc123f99e2dac3d80cd
-      base_revision: f5c14807fdf47ae6c1c39bc123f99e2dac3d80cd
-    - platform: windows
       create_revision: f5c14807fdf47ae6c1c39bc123f99e2dac3d80cd
       base_revision: f5c14807fdf47ae6c1c39bc123f99e2dac3d80cd
 

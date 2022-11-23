@@ -20,9 +20,14 @@ dev_dependencies:
 flutter:
   plugin:
     platforms:
-      macos:
-        pluginClass: WeirdPlugin
-      windows:
-        pluginClass: WeirdPlugin
+      android:
+        ffiPlugin: true
+      ios:
+        ffiPlugin: true
       linux:
-        pluginClass: WeirdPlugin
+        ffiPlugin: true
+      macos:
+        ffiPlugin: true
+      windows:
+        ffiPlugin: true
+
