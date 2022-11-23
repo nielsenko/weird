@@ -4,11 +4,12 @@ A new FFI plugin project that illustrates an issue with native finalizers.
 
 
 ## Build
-
+```
 cmake -G Ninja -S src -B build
 cmake --build build
-cp build/libweird.dylib .
-
+cp build/libweird.dylib . # assuming macos
+```
 ## Run
-
+```
 dart run lib/main.dart
+```
